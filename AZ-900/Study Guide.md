@@ -1,6 +1,6 @@
-# [Study guide for Exam AZ-900: Microsoft Azure Fundamentals] (https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
+# [Study guide for Exam AZ-900: Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
 
 ## Skills measured as of July 31, 2023
--Describe cloud concepts (25–30%)
--Describe Azure architecture and services (35–40%)
--Describe Azure management and governance (30–35%)
+- Describe cloud concepts (25–30%).
+- Describe Azure architecture and services (35–40%).
+- Describe Azure management and governance (30–35%).
